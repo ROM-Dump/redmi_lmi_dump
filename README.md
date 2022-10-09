@@ -1,0 +1,18 @@
+## qssi-user 10 QKQ1.191117.002 V12.0.9.0.QJKCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: kona
+- Codename: lmi
+- Brand: Redmi
+- Flavor: qssi-user
+- Release Version: 10
+- Id: QKQ1.191117.002
+- Incremental: V12.0.9.0.QJKCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: Redmi/lmi/lmi:10/QKQ1.191117.002/V12.0.9.0.QJKCNXM:user/release-keys
+- OTA version: 
+- Branch: qssi-user-10-QKQ1.191117.002-V12.0.9.0.QJKCNXM-release-keys
+- Repo: redmi_lmi_dump
